@@ -1,0 +1,30 @@
+
+ 
+  
+H1 {
+  
+  font-size: 140%;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: left;
+.subgroup{
+  color: red;
+  text-align: left;
+}
+td{
+  background: olive;
+  color: white;
+  border: 1px solid black;
+}
+.hrefs{
+  color: green;
+}
+a:link{
+  text-decoration: none;
+  color: #6699CC; 
+text-align: left;
+font-size: 140%;
+}
+
+  table{
+    align:left;
+  }
